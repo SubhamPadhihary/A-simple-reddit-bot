@@ -23,8 +23,3 @@ for submission in hot_subreddit:
                     print('found', keyword)
                     print('https://reddit.com'+ comment.permalink)
                     comment.reply(f'> {keyword}\n\n[MARIJUAANAAA!](https://youtu.be/Ey8LVUupy34?t=65)\n\n ^(This comment was made by a test bot I made.)')
-
-
-# for submission in hot_subreddit:
-#     for comment in submission.comments.list():
-#         print(comment.body)
