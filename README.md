@@ -1,7 +1,7 @@
 # A-simple-reddit-bot
 The general purpose of this bot is to reply something by looking up specific keywords in comments.
 ## What this bot actually does
-look up the keywords: ['marijuana', 'weed', 'stoned', 'Marijuana', 'high on weed'] in comments of some hot posts in a certain subreddit and replies something like this:
+Look up the keywords: ['marijuana', 'weed', 'stoned', 'Marijuana', 'high on weed'] in comments of some hot posts in a certain subreddit and replies something like this:
 
 ![alt text](https://github.com/SubhamPadhihary/A-simple-reddit-bot/blob/master/output2.jpg?raw=true)
 
